@@ -1,4 +1,4 @@
-FROM redhat-sso73-openshift:1.0
+FROM redhat-sso-7/sso73-openshift
 
 MAINTAINER childofthewired
 
