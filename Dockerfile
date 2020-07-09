@@ -1,4 +1,4 @@
-FROM registry.redhat.io/rh-sso-7/sso74-openshift-rhel8
+FROM redhat-sso73-openshift:1.0
 
 MAINTAINER childofthewired
 
